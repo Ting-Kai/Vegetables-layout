@@ -108,20 +108,20 @@ main {
     width: 140px;
     height: 140px;
     object-fit: contain;
-    padding: 0px 12px 0px 0px;
-}
-
-.img_vegetables_carrot {
-    width: 140px;
-    height: 140px;
-    object-fit: contain;
+    padding: 0px 0px 0px 12px;
 }
 
 .img_vegetables_corn {
     width: 140px;
     height: 140px;
     object-fit: contain;
-    padding: 0px 0px 0px 12px;
+}
+
+.img_vegetables_carrot {
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+    padding: 0px 12px 0px 0px;
 }
 
 .right_content {
